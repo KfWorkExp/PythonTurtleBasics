@@ -51,25 +51,24 @@ Note that 'forking' only copies the code and not the Wiki with the user stories 
 
 ## Challenges
 
-1) Take the code in TurtleBasic.py and turn it into something prettier?
-        - Try changing  the start point and turn before drawing each time
-        - Experiment with pen colours and fill.  What cool effects can you create?
+1) Take the code in TurtleBasic.py and change it to draw something prettier.
+      - Try changing  the start point and turn before drawing each time
+      - Experiment with pen colours and fill.  What cool effects can you create?
    
      
 2) Can you figure out how to draw some other basic shapes?
-        - Triangle (3 sides, internal angles 60 degrees)
-        - Pentagon (5 sides, internal angles 108 degrees)
-        - Hexagon (6 sides, internal angles 120 degrees)
-        - Octagon (8 sides, internal angles 135 degrees)
+      - Triangle (3 sides, internal angles 60 degrees)
+      - Pentagon (5 sides, internal angles 108 degrees)
+      - Hexagon (6 sides, internal angles 120 degrees)
+      - Octagon (8 sides, internal angles 135 degrees)
    
  
 3) Try making some more complex drawings for example:
-        - A house, spiders web, tree or animal
-        - Draw letters to spell your name or a simple word
-        - Create a 3-dimensional object such as a cube or a pyramid.
+      - A house, spiders web, tree or animal
+      - Draw letters to spell your name or a simple word
+      - Create a 3-dimensional object such as a cube or a pyramid.
 
-
-4) Can you make the code from 3 generic so that the user inputs a number of sides and it calculates how to draw the required shape?
+5) Can you make the code from 3 generic so that the user inputs a number of sides and it calculates how to draw the required shape?
   
 
 ## Turtle Commands
