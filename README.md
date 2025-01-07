@@ -9,7 +9,7 @@ Each of the files in this Repo give examples of Python code
 ### Step 1 - The following software needs to be installed on your laptop:
 
 - [Visual Studio Code](https://code.visualstudio.com/) - Code Editor/Compiler
-- [Python]([https://nodejs.org/en](https://www.python.org/downloads/)) - compiler and runner for Python code.
+- [Python](https://www.python.org/downloads/) - compiler and runner for Python code.
 - [Git](https://git-scm.com/) - Scource code management.
 
 ### Step 2 - Fork the Master Repo and create a working copy on your laptop.
