@@ -100,4 +100,4 @@ Note that 'forking' only copies the code and not the Wiki with the user stories 
 
 - [https://www.w3schools.com/python/](https://www.w3schools.com/python/)
 - [https://www.w3schools.com/python/python_user_input.asp](https://www.w3schools.com/python/python_user_input.asp)
-- [https://www.geeksforgeeks.org/python-turtle-tutorial/] (https://www.geeksforgeeks.org/python-turtle-tutorial/)
+- [https://www.geeksforgeeks.org/python-turtle-tutorial/](https://www.geeksforgeeks.org/python-turtle-tutorial/)
