@@ -24,8 +24,6 @@ The aim is to get students coding in Python using the turtle package before they
       b) Navigate to it: cd code
       c) Copy the code to your laptop: git clone <url>  (where the url is the one you copied in 4).
 
-Note that 'forking' only copies the code and not the Wiki with the user stories etc in.  You will need to refer to the original url for these.
-
 ### Step 3 - Open in VS Code and run up the code.
 
 1) Open VS Code.
