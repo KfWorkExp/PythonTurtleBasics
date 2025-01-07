@@ -3,6 +3,7 @@
 ## Introduction
 
 Each of the files in this Repo give examples of Python code 
+The aim is to get students coding in Python using the turtle package before they move onto the more advanced TicTacToe exercise.
 
 ## Initial setup
 
